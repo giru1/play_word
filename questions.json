@@ -1,0 +1,20 @@
+{
+
+	"Еда": {
+		"100": {
+			"question": "apple",
+			"answer": "яблоко",
+			"asked": false
+		},
+		"200": {
+			"question": "berry",
+			"answer": "ягода",
+			"asked": false
+		},
+		"300": {
+			"question": "venison",
+			"answer": "оленина",
+			"asked": false
+		}
+	}
+}
